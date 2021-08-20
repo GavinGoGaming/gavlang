@@ -1,0 +1,4 @@
+Print "Num:"
+Print 100
+Print "Exp:"
+Print 100+10
